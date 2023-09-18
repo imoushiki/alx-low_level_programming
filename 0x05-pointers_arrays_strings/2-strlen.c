@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _strlen - returns length of string
+ * _strlen - returns length of string
  * @s: string pointer to be checked
  * Return: return length of string
  */
