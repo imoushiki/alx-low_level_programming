@@ -24,7 +24,8 @@ new->next = NULL;
 
 if (idx == 0)
 {
-new->next = *head;*head = new;
+new->next = *head;
+*head = new;
 return (new);
 }
 
